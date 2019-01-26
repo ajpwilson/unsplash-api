@@ -5,6 +5,8 @@ import App from './components/App';
 
 
 ReactDom.render(
-  <App />,
+  <BrowserRouter>
+    <App />,
+  </BrowserRouter>
   document.querySelector('#root')
 );
