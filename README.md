@@ -1,4 +1,4 @@
-# Flickr Photo Stream
+# unsplash api
 
 This app was built in a course from Udemy.
 
